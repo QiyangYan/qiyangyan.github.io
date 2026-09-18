@@ -1,3 +1,3 @@
-https://qiyangyan.github.io/web/
+https://qiyangyan.github.io/
 
 Cloned from Jon Barron's public academic website: https://jonbarron.info/.
