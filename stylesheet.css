@@ -46,3 +46,5 @@
 .authors .contribution-mark{font-size:.75em;line-height:0;vertical-align:super;font-weight:400}
 
 #other-projects .project-image{display:flex;justify-content:center}#other-projects .project-image img{width:85%;max-height:220px}
+
+.highlight-grid>a.highlight{cursor:pointer}.highlight-grid>a.highlight .research-video{pointer-events:none}.highlight-grid>a.highlight:hover h3{text-decoration:underline;text-underline-offset:4px}
