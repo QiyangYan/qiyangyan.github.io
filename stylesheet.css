@@ -50,3 +50,5 @@
 .highlight-grid>a.highlight{cursor:pointer}.highlight-grid>a.highlight .research-video{pointer-events:none}.highlight-grid>a.highlight:hover h3{text-decoration:underline;text-underline-offset:4px}
 
 #publications #dexhot .project-image .research-video{width:80%}
+
+.highlight-project-link{display:block;cursor:pointer}.highlight-project-link:hover{text-decoration:none}.highlight-project-link:hover h3{text-decoration:underline;text-underline-offset:4px}.highlight-project-link .research-video{pointer-events:none}
